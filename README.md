@@ -14,9 +14,8 @@ This backend API provides endpoints for creating questionnaires, managing users,
 
 3. Create a .env file in the root directory with the following variables:
 
-   PORT=5000
-   MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret_key
+- PORT=5000
+- MONGODB_URI=your_mongodb_connection_string
 
 4. Start the server using npm start
 
