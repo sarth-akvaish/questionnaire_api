@@ -6,7 +6,7 @@ This backend API provides endpoints for creating questionnaires, managing users,
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/questionnaire-system.git
+   git clone https://github.com/sarth-akvaish/questionnaire_api.git
 
 2. Install dependencies:
    cd questionnaire-system
@@ -33,9 +33,10 @@ This backend API provides endpoints for creating questionnaires, managing users,
 - POST /submitAnswers/:id: Submit answers to a questionnaire. Request body should contain an array of answers.
 
 6. Technologies Used
-   Node.js
-   Bcrypt.js
-   Express.js
-   MongoDB
-   Mongoose
-   JSON Web Tokens (JWT) for authentication
+
+- Node.js
+- Bcrypt.js
+- Express.js
+- MongoDB
+- Mongoose
+- JSON Web Tokens (JWT) for authentication
