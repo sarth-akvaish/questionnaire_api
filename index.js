@@ -16,7 +16,7 @@ app.use('/admin', adminRoutes);
 app.use('/api', quesRoutes);
 
 app.get('/', (req, res) => {
-    res.json('Hey I am here')
+    res.json('Questionnaire System Backend API Please refer to readme for other routes !!')
 })
 
 app.listen(port, () => {
